@@ -1,0 +1,2 @@
+# mygit
+git study
